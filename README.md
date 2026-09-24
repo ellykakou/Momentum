@@ -27,3 +27,4 @@ Open `../Momentum.xcodeproj` in Xcode and select the `Momentum` scheme. Set a si
 - Deleting a task keeps its focus sessions, with the task link cleared. Each record can be edited or deleted in the UI.
 
 No medical conclusions are generated. The summary only describes recorded activity and shows the count used for each metric.
+
